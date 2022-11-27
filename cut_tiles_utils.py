@@ -1,3 +1,9 @@
+"""
+Cut multispectral image into tiles
+Modified from https://github.com/szymon-datalions/geoprocessing/blob/master/rasters/clip_into_quadrants.py 
+Author:
+    Rosario Alejandra Medina Rodríguez - 20.10.2021
+"""
 
 import numpy as np 
 import os
